@@ -1,5 +1,5 @@
 #!/bin/bash
-URL="https://www.machupicchudestinationsperu.com/cache.php"
+URL="URL"
 
 while true; do
     echo -n "$ "
